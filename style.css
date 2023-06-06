@@ -1,0 +1,35 @@
+.heading {
+  display: flex;
+  justify-content: center;
+}
+
+.para {
+  display: flex;
+  justify-content: center;
+  font-size: x-large;
+}
+
+.container {
+  height: 100%;
+  border: 5px solid black;
+  background-color: rgb(223, 70, 70);
+  margin-top: 3em;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2em;
+}
+
+.btn-success {
+  padding-right: 4em;
+  padding-left: 4em;
+}
+
+.btn-danger {
+  padding-right: 4em;
+  padding-left: 4em;
+  margin: 2px;
+}
